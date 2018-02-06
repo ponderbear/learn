@@ -6,7 +6,9 @@ commit (将暂存区的文件添加到repository)
 
 原文件修改后 ，再次add并commit
 
-然后坐时光机 reset
+然后坐时光机 reset --hard head^或哈希码
+
+可用reflog查看每次命令从而找回哈希码
 
 
 
