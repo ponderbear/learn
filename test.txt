@@ -1,0 +1,4 @@
+it is my first git file 
+firstly you should not create the file in the repository directory (slow)
+add（将文件的记录add到repository里，告诉一声）
+commit (添加add 文件到.git后的说明)
