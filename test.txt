@@ -1,4 +1,12 @@
 it is my first git file 
-firstly you should not create the file in the repository directory (slow)
-add（将文件的记录add到repository里，告诉一声）
-commit (添加add 文件到.git后的说明)
+firstly you should not create the file in the repository directory (slow)(可将sublime gitgutter插件禁用)
+
+add（将文件添加到暂存区）
+commit (将暂存区的文件添加到repository)
+
+原文件修改后 ，再次add并commit
+
+然后坐时光机 reset
+
+
+
