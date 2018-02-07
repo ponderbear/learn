@@ -18,3 +18,6 @@ commit (将暂存区的文件添加到repository)
 3、用github时可选http（每次要用户名和密码）或ssh的非对称加密方式
 4、用pull（推送）将本地库内容推到github（远程库）中某个repository
 5、用clone（克隆）将github（远程库）复制到本地库中
+
+
+6、branch 名 创建另外一个分支;checkout 名 到另一个分支（或者二合一操作）
