@@ -22,4 +22,4 @@ commit (将暂存区的文件添加到repository)
 
 6、branch 名 创建另外一个分支;checkout 名 到另一个分支（或者二合一操作）
 
-7、冲突后，修改完毕了，再commit，自动合并了
+7、冲突后，修改完毕了，再commit，自动合并了。
