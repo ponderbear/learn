@@ -27,3 +27,6 @@ commit (将暂存区的文件添加到repository)
 =======
 7、冲突后，修改完毕了，再commit，自动合并了。
 >>>>>>> other
+
+
+9、bug冲突，使用stash保存现场（还没有add、commit）
