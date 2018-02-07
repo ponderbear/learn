@@ -28,3 +28,7 @@ commit (将暂存区的文件添加到repository)
 7、冲突后，修改完毕了，再commit，自动合并了。
 >>>>>>> other
 8、添加一个bug修改行
+
+9、从远程库（github）上clone下来一般只看得到master分支，看不到其他分支
+10、若要在从远程库上clone下来的库上建立分支（本地），要带origin/other,并关联本地和远程的
+这样才能pull下来（pull下来有冲突的要先处理冲突），再push（之前push有冲突，要先pull下来解决）
