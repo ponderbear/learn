@@ -16,3 +16,5 @@ commit (将暂存区的文件添加到repository)
 2、在工作区修改，然后回退，用checkout；
    工作区修改后并add到暂存区，先用reset撤销此次add（即unstaged），再checkout、
 3、用github时可选http（每次要用户名和密码）或ssh的非对称加密方式
+4、用pull（推送）将本地库内容推到github（远程库）中某个repository
+5、用clone（克隆）将github（远程库）复制到本地库中
