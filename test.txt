@@ -12,4 +12,4 @@ commit (将暂存区的文件添加到repository)
 
 
 
-1、对add（stage）和commit（master）进行了解
+1、对 工作区、add（stage即暂存区）、commit（master库）进行了解
