@@ -13,3 +13,5 @@ commit (将暂存区的文件添加到repository)
 
 
 1、对 工作区、add（stage即暂存区）、commit（master库）进行了解
+2、在工作区修改，然后回退，用checkout；
+   工作区修改后并add到暂存区，先用reset撤销此次add（即unstaged），再checkout
